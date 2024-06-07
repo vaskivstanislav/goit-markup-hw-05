@@ -612,6 +612,9 @@ color: #8e8f99;
 .modal-field {
         margin-bottom: 8px;
 }
+.modal-comment-field {
+        margin-bottom: 16px;   
+}
 
 .modal-field-wrap {
         position: relative;
